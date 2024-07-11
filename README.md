@@ -11,3 +11,8 @@
 
 # عرض نفقات الفروع
 ![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/88dc10a5-7f88-4b2c-88d4-640349b436c5)
+
+
+# تقرير المزامنه
+![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/4c5adbd7-0ac1-4a32-b36d-a9b849bff776)
+
