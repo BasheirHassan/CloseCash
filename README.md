@@ -16,3 +16,5 @@
 # تقرير المزامنه
 ![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/4c5adbd7-0ac1-4a32-b36d-a9b849bff776)
 
+# تقرير نفقات الشهر
+![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/cae5ff3e-f520-4936-9908-396333377abc)
