@@ -1,6 +1,9 @@
 # CloseCash
 # تطبيق يساعد على اغلاق اليومية للمبيعات ومتابعة برامج التوصيل
 
+[رابط تحميل النسخة
+](https://github.com/BasheirHassan/CloseCash/releases)
+
 
 
 ![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/c6569c14-2f59-4e1c-8234-0b4cf1d5fb69)
