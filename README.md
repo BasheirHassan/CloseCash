@@ -11,7 +11,7 @@
 # حساب نقطة التعادل
 
 ![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/6d4a4acc-e8b4-48b1-8a80-80ae71e9fcb3)
-![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/e48681ae-1969-4dd4-8521-f71e99ca19e6)
+![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/f1660018-e795-44f5-bbfe-52b411e74865)
 
 
 # عرض نفقات الفروع
