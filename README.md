@@ -28,3 +28,8 @@
 
 # تقرير نفقات الشهر
 ![image](https://github.com/BasheirHassan/CloseCash/assets/6355712/cae5ff3e-f520-4936-9908-396333377abc)
+
+
+
+#ارصدة الفروع
+![image](https://github.com/user-attachments/assets/e60c352c-1f5c-4fab-8b32-be72ed64b413)
