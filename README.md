@@ -33,3 +33,11 @@
 
 #ارصدة الفروع
 ![image](https://github.com/user-attachments/assets/e60c352c-1f5c-4fab-8b32-be72ed64b413)
+
+
+
+![image](https://github.com/user-attachments/assets/c7066215-fbe1-4201-9280-ca81af7ab672)
+
+
+![image](https://github.com/user-attachments/assets/0e792075-7910-4b7c-8bd4-7ede9ee85305)
+
