@@ -41,3 +41,10 @@
 
 ![image](https://github.com/user-attachments/assets/d7ecd2b6-8bf9-42a3-8522-c20dec2594b9)
 
+
+
+إضافة نظام النسخ الاحتياطي التلقائي مع إعدادات متقدمة للفتح والإغلاق
+![image](https://github.com/user-attachments/assets/78781d66-4d69-4f4f-9794-ff799b102aaa)
+
+
+
